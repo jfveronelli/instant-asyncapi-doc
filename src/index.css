@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "SAP-icons";
+  src: url("fonts/SAP-icons.woff2") format('woff2'),
+       url("fonts/SAP-icons.woff") format('woff'),
+       url("fonts/SAP-icons.ttf") format('truetype');
+}
